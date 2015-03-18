@@ -21,6 +21,8 @@ import javax.swing.JRadioButton;
 import javax.swing.JCheckBox;
 import javax.swing.JTextArea;
 
+// Welcome to this code
+
 /**
  * Version 1.0
  * This version adds functional buttons to select which attributes you would like displayed
